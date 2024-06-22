@@ -1,0 +1,84 @@
+{
+    "status": "ok",
+    "totalResults": 38,
+    "articles": [
+        {
+            "source": {
+                "id": null,
+                "name": "Livemint"
+            },
+            "author": "Nikita Prasad",
+            "title": "NTPC Q1 Results: Net profit rises 23% to ₹4,907 crore, revenue declines marginally; coal production up 52% YoY | Mint - Mint",
+            "description": "NTPC Q1 Results: The state-owned power utility's revenue from operations in the first quarter of current fiscal stood at  ₹43,075.09 crore, marginally lower compared to  ₹43,177.14 crore in the year-ago period.",
+            "url": "https://www.livemint.com/companies/company-results/ntpc-q1-results-net-profit-rises-23-to-rs-4-907-crore-revenue-declines-marginally-coal-production-up-52-yoy-11690630914750.html",
+            "urlToImage": "https://www.livemint.com/lm-img/img/2023/07/29/600x338/ntpc_1690631357343_1690631357527.jpg",
+            "publishedAt": "2023-07-29T11:51:09Z",
+            "content": "NTPC Q1 Results: NTPC announced its April-June quarter results for fiscal 2023-23 (Q1FY24) on July 29, reporting a rise of 23 per cent in consolidated net profit at 4,907 crore, compared to 3,977.7 c… [+2289 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Hindustan Times"
+            },
+            "author": "HT Tech",
+            "title": "Hubble Space Telescope has found a unique, evaporating planet 32 light years away from Earth - HT Tech",
+            "description": "Due to its proximity to the parent star, the planet endures a continuous and forceful onslaught, leading to the gradual evaporation of its hydrogen atmosphere.",
+            "url": "https://tech.hindustantimes.com/tech/news/hubble-space-telescope-has-found-a-unique-evaporating-planet-32-light-years-away-from-earth-71690630495254.html",
+            "urlToImage": "https://images.hindustantimes.com/tech/img/2023/07/29/1600x900/solar-system-11111_960_720_1661519252399_1690630695688.webp",
+            "publishedAt": "2023-07-29T11:42:48Z",
+            "content": "We know that the universe is full of strange, even unique, bodies, but it still never ceases to amaze and surprise us every day. Now, thanks to NASA's Hubble Space Telescope, we have got to know abou… [+2133 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Indian Express"
+            },
+            "author": "The Indian Express",
+            "title": "Bard is not the place to look for accurate information, says Google’s UK executive - The Indian Express",
+            "description": null,
+            "url": "https://indianexpress.com/article/technology/artificial-intelligence/bard-not-place-for-accurate-info-warns-google-uk-executive-8866697/",
+            "urlToImage": null,
+            "publishedAt": "2023-07-29T11:33:56Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Healio"
+            },
+            "author": null,
+            "title": "'We're not waiting': World Hepatitis Day pushes for urgent elimination of viral hepatitis - Healio",
+            "description": "On Friday, clinicians and researchers across the world recognized World Hepatitis Day as an opportunity to honor the &ldquo;more than a million lives lost to hepatitis&rdquo; every year and redouble national efforts to stop its spread.\nEvery year on July 28th…",
+            "url": "https://www.healio.com/news/gastroenterology/20230728/were-not-waiting-world-hepatitis-day-pushes-for-urgent-elimination-of-viral-hepatitis",
+            "urlToImage": "https://www.healio.com/~/media/slack-news/gastroenterology/misc/awareness-images/2022/22005939_0622_hepatitisday.jpg",
+            "publishedAt": "2023-07-29T11:30:10Z",
+            "content": "We were unable to process your request. Please try again later. If you continue to have this issue please contact customerservice@slackinc.com.Back to Healio\r\nOn Friday, clinicians and researchers ac… [+9011 chars]"
+        },
+        {
+            "source": {
+                "id": "the-times-of-india",
+                "name": "The Times of India"
+            },
+            "author": "TIMESOFINDIA.COM",
+            "title": "India vs West Indies, 2nd ODI: India eye series victory with improved batting display | Cricket News - Times of India - IndiaTimes",
+            "description": "Cricket News: The Indian team is expected to revert to its established batting order in the second ODI against West Indies on Saturday, aiming for an improved perfo",
+            "url": "https://timesofindia.indiatimes.com/sports/cricket/india-in-west-indies/india-vs-west-indies-2nd-odi-india-eye-series-victory-with-improved-batting-display/articleshow/102198143.cms",
+            "urlToImage": "https://static.toiimg.com/thumb/msid-102198663,width-1070,height-580,imgsize-49348,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+            "publishedAt": "2023-07-29T11:16:03Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Moneycontrol"
+            },
+            "author": "Moneycontrol News",
+            "title": "'Bawaal' controversy: Israel embassy 'disturbed' by Holocaust reference in movie - Moneycontrol",
+            "description": "The Israel embassy reacted to the Holocaust reference in 'Bawaal' on Twitter on Friday.",
+            "url": "https://www.moneycontrol.com/news/trends/bawaal-controversy-israel-embassy-disturbed-by-holocaust-reference-in-movie-11056461.html",
+            "urlToImage": "https://images.moneycontrol.com/static-mcnews/2023/07/Collage-Maker-29-Jul-2023-12-43-PM-4530-770x433.jpg",
+            "publishedAt": "2023-07-29T07:30:52Z",
+            "content": "The Varun Dhawan-Janhvi Kapoor starrer \"Bawaal\" which released on OTT platform Prime Video on July 21 has come in for criticism for its dialogues, particularly the one that connects marital discord w… [+1626 chars]"
+        }
+    ]
+}
