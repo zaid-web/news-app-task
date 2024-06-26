@@ -9,7 +9,7 @@ import LoadingBar from 'react-top-loading-bar'
 const App = () => {
 
   //get api key from .env.local file (concept for confidential data)
-  const apiKey = process.env.REACT_APP_NEWS_API_KEY;
+  const apiKey = process.env.REACT_APP_NEWS_API_KEY; // 3d080c0fdd7640e3aa84b71f87df2074
 
   //set card size
   const pageSize = 5;
